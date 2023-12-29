@@ -61,7 +61,7 @@
         image.setAttribute('src',imageArr[currentImage]);
 
 
-    }, 3000);
+    },5000);
 
 
 
